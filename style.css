@@ -1,9 +1,58 @@
 * {
-    border: 1px solid gray  
-    paddig: 5cap
-    margin: 5px;  
+    border: 1px solid gray;
+    margin: 1px;
+    padding: 5px;
+
 }
 
-p{
+p {
     font-size: 20px;
+}
+
+.w70 {
+    width: 70%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.jobb {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.kozep {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.piros3 {
+    border-radius: 3px;
+}
+
+
+
+.piros {
+
+    border-color: red;
+}
+
+
+.kek5 {
+    border-radius: 5px;
+}
+
+.kek {
+    border-color: blue;
+}
+
+
+.zold10 {
+    border-radius: 10px;
+}
+
+.zold {
+    border-radius: 10px;
+    border-color: green;
 }
